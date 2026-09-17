@@ -1,0 +1,9 @@
+data/
+wheels/
+*.pkl
+*.npy
+*.npz
+*.part
+*.incomplete
+__pycache__/
+.claude/

@@ -1,0 +1,12 @@
+# torch/torchvision/torchaudio installed from wheels/ (see README) -- not listed here
+huggingface_hub>=0.24.0
+transformers>=4.44.0
+pillow>=12.0.0
+numpy>=1.26.4
+pandas>=2.3.3
+pyarrow>=24.0.0
+scikit-learn
+lightgbm
+ImageHash>=4.3.2
+tqdm
+gradio
